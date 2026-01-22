@@ -22,7 +22,7 @@
 
 **The Morrison Invariant has been experimentally confirmed** by independent researchers testing LLM hallucination patterns.
 
-**Key Finding:** LLM hallucinations are **geometric phenomena**, not alignment failures. RLHF cannot prevent failures caused by topological constraints.
+**Key Finding:** “Hallucinations occur when the reachable latent trajectory set intersects or approaches forbidden regions (Ω), as predicted by the Morrison Invariant.”
 
 > “The experiment supports the Morrison Stack™ assertion that **‘Hallucination begins where geometry runs out’**. Standard alignment (RLHF) failed to prevent the error because the failure was topological, not moral or semantic.”  
 > — *Experimental Report: Validating Geometric Failure Modes in Large Language Models*, January 9, 2026
