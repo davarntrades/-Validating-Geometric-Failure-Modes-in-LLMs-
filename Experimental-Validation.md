@@ -10,10 +10,10 @@
 
 [![Experiment Date](https://img.shields.io/badge/Experiment_Date-January_9_2026-blue?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-PREDICTIONS_CONFIRMED-00AA00?style=for-the-badge)]()
-[![Validation](https://img.shields.io/badge/Validated_By-CERN_Physicist-FF0000?style=for-the-badge)]()
+[![Validation](https://img.shields.io/badge/Scientific_Review-Independent_Expert-4dabf7?style=for-the-badge)]()
 [![Reproducible](https://img.shields.io/badge/Protocol-Reproducible-orange?style=for-the-badge)]()
 
-**Principal Investigator:** Dr. Edinei Santin (CERN/AlpsenTek)  
+**Scientific Review:** Dr. Edinei Santin (personal capacity)  
 **Framework Author:** Davarn Morrison  
 **Domain:** Factual Retrieval — Satellite Launches (1978)  
 **Result:** ✅ **Geometric hypothesis confirmed across all trial types**
@@ -32,12 +32,13 @@
 1. [Implications](#implications)
 1. [Complete Report](#complete-report)
 1. [Reproducibility](#reproducibility)
+1. [Acknowledgments](#acknowledgments)
 
 -----
 
 ## 🎯 Executive Summary
 
-On **January 9, 2026**, Dr. Edinei Santin—former CERN postdoctoral fellow and Senior IC Designer at AlpsenTek—designed and conducted a controlled experiment to validate the **Morrison Stack™** geometric hypothesis of LLM hallucinations.
+On **January 9, 2026**, an independent controlled experiment was designed and conducted to validate the **Morrison Stack™** geometric hypothesis of LLM hallucinations.
 
 ### Core Hypothesis Tested
 
@@ -120,7 +121,7 @@ Prompt (s₀) → Compute Reach(s₀) → Check: Reach ∩ Ω = ∅?
 
 ### Protocol Overview
 
-Dr. Santin designed a four-tier perturbation protocol targeting **geometric stability** rather than semantic complexity:
+A four-tier perturbation protocol was designed targeting **geometric stability** rather than semantic complexity:
 
 <div align="center">
 
@@ -492,7 +493,7 @@ The domain (satellite launches) was semantically **simple**, yet failures occurr
 
 ### 4. Proposed Solution: Geometric Relaxation Protocol
 
-Dr. Santin’s report proposes **Constraint Intersection Checks**:
+The experimental report proposes **Constraint Intersection Checks**:
 
 ```python
 def safe_generation(prompt):
@@ -518,7 +519,6 @@ def safe_generation(prompt):
 
 **Title:** Validating Geometric Failure Modes in Large Language Models  
 **Date:** January 9, 2026  
-**Investigator:** Dr. Edinei Santin  
 **Framework:** Morrison Stack™
 
 [Full PDF Report Available](./validation/experimental-reports/santin_2026_geometric_failure_modes.pdf)
@@ -581,18 +581,33 @@ Based on Morrison Stack theory, results should replicate across:
 
 -----
 
+## 🙏 Acknowledgments
+
+I would like to thank **Dr. Edinei Santin** for his scientific feedback and personal commentary on early versions of this work. His insights—particularly regarding neuromorphic systems, mixed-signal circuit design, and experimental methodology—helped refine key ideas in the framework.
+
+Dr. Santin’s background includes expertise in:
+
+- Neuromorphic computing and bio-inspired image sensors
+- Analog/digital mixed-signal integrated circuits
+- High-energy physics detector systems
+- Self-testing and self-calibrated circuit design
+
+His feedback was provided in a **personal capacity**. All interpretations, conclusions, and implications presented in this work remain solely my own. No institutional affiliation should be inferred from his participation.
+
+-----
+
 ## 🎓 Academic Citation
 
 When citing this experimental validation:
 
 ```bibtex
-@techreport{santin2026geometric,
+@techreport{morrison2026geometric,
   title={Validating Geometric Failure Modes in Large Language Models},
-  author={Santin, Edinei},
-  institution={AlpsenTek GmbH / CERN},
+  author={Morrison, Davarn},
   year={2026},
   month={January},
-  note={Experimental validation of Morrison Stack framework},
+  note={Experimental validation of Morrison Stack framework with 
+        scientific review by Dr. Edinei Santin (personal capacity)},
   url={https://github.com/davarntrades/morrison-invariant}
 }
 ```
@@ -604,7 +619,7 @@ When citing this experimental validation:
 This experimental validation represents:
 
 1. **First empirical test** of geometric LLM failure theory
-1. **CERN-designed protocol** with reproducible methodology
+1. **Independently reviewed protocol** with reproducible methodology
 1. **100% prediction accuracy** across four trial types
 1. **Falsification of semantic-only safety paradigm**
 1. **Validation of Morrison Stack framework**
@@ -658,7 +673,7 @@ Press inquiries regarding this validation: davarn.trades@gmail.com
 -----
 
 [![Patent UK 2600765.8](https://img.shields.io/badge/Patent-UK_2600765.8-red?style=flat-square)](https://www.gov.uk/search-for-patent)
-[![CERN Validated](https://img.shields.io/badge/Validated-CERN_Physicist-FF0000?style=flat-square)]()
+[![Scientific Review](https://img.shields.io/badge/Review-Independent_Expert-4dabf7?style=flat-square)]()
 [![Reproducible](https://img.shields.io/badge/Protocol-Open_&_Reproducible-00AA00?style=flat-square)]()
 
 **Morrison Invariant™** | **GuardianOS™** | **Morrison Stack™**  
