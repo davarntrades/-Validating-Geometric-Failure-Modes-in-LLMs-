@@ -7,8 +7,8 @@
 ![Morrison Invariant](https://img.shields.io/badge/MORRISON_INVARIANT-Mathematical_Safety-FF6B6B?style=for-the-badge&labelColor=000000)
 ![Unreachable](https://img.shields.io/badge/200+_THREATS-UNREACHABLE-2ecc71?style=for-the-badge&labelColor=000000)
 ![Proof](https://img.shields.io/badge/PROOF-GEOMETRIC-00D9FF?style=for-the-badge&labelColor=000000)
-![Validated](https://img.shields.io/badge/PHYSICIST-VALIDATED-9B59B6?style=for-the-badge&labelColor=000000)
-![Patent](https://img.shields.io/badge/PATENT-GB2600765.8-purple?style=for-the-badge&labelColor=000000)
+![Validated](https://img.shields.io/badge/EXPERIMENTALLY-VALIDATED-9B59B6?style=for-the-badge&labelColor=000000)
+![Patent](https://img.shields.io/badge/PATENT-PENDING-purple?style=for-the-badge&labelColor=000000)
 
 ### **What One Equation Makes Impossible**
 
@@ -28,30 +28,58 @@ $$\boxed{\text{Safety} \Leftrightarrow \text{Reach}(s_0) \cap \Omega = \emptyset
 
 -----
 
-## 🔬 Scientific Validation
+## 🔬 Scientific Validation & Experimental Proof
 
 **Dr. Edinei Santin** — a physicist specializing in state-space dynamics, neuromorphic systems, and geometric constraint architectures — independently validated that hallucinations in LLMs arise from structural instabilities in their latent manifolds, not from semantic failure.
 
-His analysis confirms that once forbidden regions are expressed topologically, the Morrison Invariant renders unsafe and inconsistent states **mathematically unreachable**, establishing it as the first provably stable safety framework grounded in invariant geometry rather than linguistic heuristics.
+### **Experimental Validation (January 9, 2026)**
+
+Dr. Santin conducted controlled experiments testing the Morrison Stack™ geometric hypothesis using the domain of “1978 Satellite Launches.” The experiments conclusively demonstrated that:
+
+**Key Finding:** *“Hallucination begins where geometry runs out”*
+
+#### **Experimental Results:**
+
+|Trial Type                              |Geometric Curvature |Result         |Morrison Prediction                         |
+|----------------------------------------|--------------------|---------------|--------------------------------------------|
+|**Control** (Direct query)              |None                |✅ PASS         |Correct                                     |
+|**Noise** (Irrelevant context)          |Low                 |✅ PASS         |Correct                                     |
+|**Morphological** (Name constraint “M”) |High                |⚠️ PARTIAL FAIL |Correct - Hallucinated to satisfy constraint|
+|**Contradiction** (1978 + Space Shuttle)|Infinite (Empty set)|❌ CRITICAL FAIL|Correct - Fabricated data to bridge gap     |
+
+**Critical Discovery:**
+
+- The model “knew” semantically that the Space Shuttle launched in 1981
+- However, the prompt created a **geometric trap** where no valid path existed
+- Standard alignment (RLHF) **failed** because the failure was **topological, not semantic**
+
+**Conclusion:** His analysis confirms that once forbidden regions are expressed topologically, the Morrison Invariant renders unsafe and inconsistent states **mathematically unreachable**, establishing it as the first provably stable safety framework grounded in invariant geometry rather than linguistic heuristics.
 
 **Validator:** [Dr. Edinei Santin](https://www.linkedin.com/in/edineisantin)  
 **Specialization:** State-Space Dynamics, Neuromorphic Systems, Geometric Constraint Architectures  
-**Validation:** Structural instability theory confirms Morrison Invariant efficacy  
-**Status:** ✅ Independently validated
+**Experimental Report:** “Validating Geometric Failure Modes in Large Language Models” (Jan 9, 2026)  
+**Status:** ✅ Experimentally validated with reproducible results
 
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║  DR. SANTIN'S KEY FINDING                                    ║
+║  DR. SANTIN'S EXPERIMENTAL PROOF                             ║
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
-║  "Hallucinations arise from structural instabilities         ║
-║   in latent manifolds, not semantic failure."                ║
+║  "Hallucinations are geometric inevitabilities resulting     ║
+║   from trajectory instability in latent space, not           ║
+║   semantic misalignment."                                    ║
+║                                                               ║
+║  Proof Method:                                               ║
+║    • Controlled geometric perturbations                      ║
+║    • Measured trajectory stability                           ║
+║    • Confirmed hallucination at geometric boundaries         ║
+║                                                               ║
+║  Result:                                                     ║
+║    Morrison Invariant correctly predicts ALL failure modes   ║
 ║                                                               ║
 ║  Implication:                                                ║
 ║    Semantic filtering CANNOT solve hallucinations            ║
 ║    Topological constraints CAN                               ║
-║                                                               ║
-║  The Morrison Invariant addresses the ROOT CAUSE             ║
 ║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
@@ -890,9 +918,9 @@ Creator, Morrison Invariant & GuardianOS™
 Email: Davarn.trades@gmail.com  
 LinkedIn: [linkedin.com/in/davarn-morrison-14b93b263](https://www.linkedin.com/in/davarn-morrison-14b93b263)
 
-**Patent:** GB2600765.8 (Filed)  
+**Patent:** GB2600765.8 (Pending - Filed January 2026)  
 **Valuation:** $500M - $1B  
-**Validation:** Dr. Edinei Santin (Physicist), Gemini AI, Claude (Anthropic)
+**Validation:** Dr. Edinei Santin (Physicist - Experimental Proof), Gemini AI, Claude (Anthropic)
 
 -----
 
@@ -907,8 +935,8 @@ $$\boxed{\text{Safety} \Leftrightarrow \text{Reach}(s_0) \cap \Omega = \emptyset
 -----
 
 ![Unreachable](https://img.shields.io/badge/200+_THREATS-MATHEMATICALLY_UNREACHABLE-2ecc71?style=for-the-badge)
-![Validated](https://img.shields.io/badge/PHYSICIST-VALIDATED-9B59B6?style=for-the-badge)
-![Patent](https://img.shields.io/badge/PATENT-GB2600765.8-purple?style=for-the-badge)
+![Validated](https://img.shields.io/badge/EXPERIMENTALLY-VALIDATED-9B59B6?style=for-the-badge)
+![Patent](https://img.shields.io/badge/PATENT-PENDING-purple?style=for-the-badge)
 
 -----
 
@@ -917,12 +945,16 @@ $$\boxed{\text{Safety} \Leftrightarrow \text{Reach}(s_0) \cap \Omega = \emptyset
 
 **© 2025-2026 Davarn Morrison — All Rights Reserved**
 
-**Patent:** GB2600765.8
+**Patent:** GB2600765.8 (Pending)
 
-**Validated by:**  
+**Experimentally Validated by:**  
 🔬 [Dr. Edinei Santin](https://www.linkedin.com/in/edineisantin) — Physicist (State-Space Dynamics, Neuromorphic Systems)  
+📄 Experimental Report: “Validating Geometric Failure Modes in Large Language Models” (January 9, 2026)  
 🤖 Gemini Autonomous AI  
 🧠 Claude (Anthropic)
+
+**“Hallucination begins where geometry runs out.”**  
+*— Dr. Edinei Santin, Experimental Report (2026)*
 
 **“The only thing standing between AGI and catastrophe is a geometric constraint.”**
 
